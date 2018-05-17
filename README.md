@@ -1,3 +1,4 @@
-# hello-world
-Practice repository
-# a bit about yourself
+# Hello, world!
+(practice repository)
+
+Hi everyone, just testing out the waters of github.
